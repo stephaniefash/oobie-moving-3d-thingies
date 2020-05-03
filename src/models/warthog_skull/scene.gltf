@@ -1,0 +1,482 @@
+{
+  "accessors": [
+    {
+      "bufferView": 2,
+      "componentType": 5126,
+      "count": 3671,
+      "max": [
+        6.8017287254333496,
+        13.975215911865234,
+        7.31512451171875
+      ],
+      "min": [
+        -9.7827396392822266,
+        -2.5267758369445801,
+        -5.0153064727783203
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 2,
+      "byteOffset": 44052,
+      "componentType": 5126,
+      "count": 3671,
+      "max": [
+        0.99852210283279419,
+        0.99986416101455688,
+        0.99838513135910034
+      ],
+      "min": [
+        -0.998493492603302,
+        -0.99827951192855835,
+        -0.99967837333679199
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 3,
+      "componentType": 5126,
+      "count": 3671,
+      "max": [
+        0.99992293119430542,
+        0.99984431266784668,
+        0.99999648332595825,
+        1
+      ],
+      "min": [
+        -0.99989551305770874,
+        -0.99932372570037842,
+        -0.99985623359680176,
+        1
+      ],
+      "type": "VEC4"
+    },
+    {
+      "bufferView": 1,
+      "componentType": 5126,
+      "count": 3671,
+      "max": [
+        0.99622035026550293,
+        0.99740082025527954
+      ],
+      "min": [
+        0.0035377684980630875,
+        0.0040221475064754486
+      ],
+      "type": "VEC2"
+    },
+    {
+      "bufferView": 0,
+      "componentType": 5125,
+      "count": 18006,
+      "max": [
+        3670
+      ],
+      "min": [
+        0
+      ],
+      "type": "SCALAR"
+    },
+    {
+      "bufferView": 2,
+      "byteOffset": 88104,
+      "componentType": 5126,
+      "count": 1909,
+      "max": [
+        5.5518312454223633,
+        2.7093667984008789,
+        3.9422707557678223
+      ],
+      "min": [
+        -2.084897518157959,
+        -11.308193206787109,
+        -7.9402227401733398
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 2,
+      "byteOffset": 111012,
+      "componentType": 5126,
+      "count": 1909,
+      "max": [
+        0.99994182586669922,
+        0.99981868267059326,
+        0.99944078922271729
+      ],
+      "min": [
+        -0.99999165534973145,
+        -0.99882262945175171,
+        -0.99987483024597168
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 3,
+      "byteOffset": 58736,
+      "componentType": 5126,
+      "count": 1909,
+      "max": [
+        0.99858635663986206,
+        0.99964189529418945,
+        0.99346894025802612,
+        1
+      ],
+      "min": [
+        -0.99961948394775391,
+        -0.9992525577545166,
+        -0.99725687503814697,
+        -1
+      ],
+      "type": "VEC4"
+    },
+    {
+      "bufferView": 1,
+      "byteOffset": 29368,
+      "componentType": 5126,
+      "count": 1909,
+      "max": [
+        0.99786567687988281,
+        0.99824166297912598
+      ],
+      "min": [
+        0.00018118321895599365,
+        0.00018117584113497287
+      ],
+      "type": "VEC2"
+    },
+    {
+      "bufferView": 0,
+      "byteOffset": 72024,
+      "componentType": 5125,
+      "count": 10014,
+      "max": [
+        1908
+      ],
+      "min": [
+        0
+      ],
+      "type": "SCALAR"
+    }
+  ],
+  "asset": {
+    "extras": {
+      "author": "Hammy (https://sketchfab.com/Hammy.GoofBall.Shah)",
+      "license": "CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)",
+      "source": "https://sketchfab.com/3d-models/warthog-skull-c2b1d3cd5d0e44d29db4c6cffc7a6056",
+      "title": "Warthog Skull"
+    },
+    "generator": "Sketchfab-8.42.0",
+    "version": "2.0"
+  },
+  "bufferViews": [
+    {
+      "buffer": 0,
+      "byteLength": 112080,
+      "byteOffset": 0,
+      "name": "floatBufferViews",
+      "target": 34963
+    },
+    {
+      "buffer": 0,
+      "byteLength": 44640,
+      "byteOffset": 112080,
+      "byteStride": 8,
+      "name": "floatBufferViews",
+      "target": 34962
+    },
+    {
+      "buffer": 0,
+      "byteLength": 133920,
+      "byteOffset": 156720,
+      "byteStride": 12,
+      "name": "floatBufferViews",
+      "target": 34962
+    },
+    {
+      "buffer": 0,
+      "byteLength": 89280,
+      "byteOffset": 290640,
+      "byteStride": 16,
+      "name": "floatBufferViews",
+      "target": 34962
+    }
+  ],
+  "buffers": [
+    {
+      "byteLength": 379920,
+      "uri": "scene.bin"
+    }
+  ],
+  "images": [
+    {
+      "uri": "textures/Skull_baseColor.png"
+    },
+    {
+      "uri": "textures/Skull_metallicRoughness.png"
+    },
+    {
+      "uri": "textures/Skull_normal.png"
+    },
+    {
+      "uri": "textures/Mandable_baseColor.png"
+    },
+    {
+      "uri": "textures/Mandable_metallicRoughness.png"
+    },
+    {
+      "uri": "textures/Mandable_normal.png"
+    }
+  ],
+  "materials": [
+    {
+      "doubleSided": true,
+      "name": "Skull",
+      "normalTexture": {
+        "index": 2,
+        "scale": 1,
+        "texCoord": 0
+      },
+      "occlusionTexture": {
+        "index": 1,
+        "strength": 1,
+        "texCoord": 0
+      },
+      "pbrMetallicRoughness": {
+        "baseColorFactor": [
+          1,
+          1,
+          1,
+          1
+        ],
+        "baseColorTexture": {
+          "index": 0,
+          "texCoord": 0
+        },
+        "metallicFactor": 1,
+        "metallicRoughnessTexture": {
+          "index": 1,
+          "texCoord": 0
+        },
+        "roughnessFactor": 1
+      }
+    },
+    {
+      "doubleSided": true,
+      "name": "Mandable",
+      "normalTexture": {
+        "index": 5,
+        "scale": 1,
+        "texCoord": 0
+      },
+      "occlusionTexture": {
+        "index": 4,
+        "strength": 1,
+        "texCoord": 0
+      },
+      "pbrMetallicRoughness": {
+        "baseColorFactor": [
+          1,
+          1,
+          1,
+          1
+        ],
+        "baseColorTexture": {
+          "index": 3,
+          "texCoord": 0
+        },
+        "metallicFactor": 1,
+        "metallicRoughnessTexture": {
+          "index": 4,
+          "texCoord": 0
+        },
+        "roughnessFactor": 1
+      }
+    }
+  ],
+  "meshes": [
+    {
+      "name": "wSkull_low_Skull_0",
+      "primitives": [
+        {
+          "attributes": {
+            "NORMAL": 1,
+            "POSITION": 0,
+            "TANGENT": 2,
+            "TEXCOORD_0": 3
+          },
+          "indices": 4,
+          "material": 0,
+          "mode": 4
+        }
+      ]
+    },
+    {
+      "name": "wMandable_low_Mandable_0",
+      "primitives": [
+        {
+          "attributes": {
+            "NORMAL": 6,
+            "POSITION": 5,
+            "TANGENT": 7,
+            "TEXCOORD_0": 8
+          },
+          "indices": 9,
+          "material": 1,
+          "mode": 4
+        }
+      ]
+    }
+  ],
+  "nodes": [
+    {
+      "children": [
+        1
+      ],
+      "name": "RootNode (gltf orientation matrix)",
+      "rotation": [
+        -0.70710678118654746,
+        -0,
+        -0,
+        0.70710678118654757
+      ]
+    },
+    {
+      "children": [
+        2
+      ],
+      "name": "RootNode (model correction matrix)"
+    },
+    {
+      "children": [
+        3
+      ],
+      "matrix": [
+        1,
+        0,
+        0,
+        0,
+        0,
+        0,
+        1,
+        0,
+        0,
+        -1,
+        0,
+        0,
+        0,
+        0,
+        0,
+        1
+      ],
+      "name": "f4ddf69972974ce4bc78b983ccff26ae.fbx"
+    },
+    {
+      "children": [
+        4,
+        6
+      ],
+      "name": "RootNode"
+    },
+    {
+      "children": [
+        5
+      ],
+      "matrix": [
+        29.046625137329102,
+        0,
+        0,
+        0,
+        0,
+        -4.7322959014135061e-06,
+        -29.046625137328718,
+        0,
+        0,
+        29.046625137328718,
+        -4.7322959014135061e-06,
+        0,
+        43.285572052001953,
+        40.873573303222656,
+        167.56146240234375,
+        1
+      ],
+      "name": "wSkull_low"
+    },
+    {
+      "mesh": 0,
+      "name": "wSkull_low_Skull_0"
+    },
+    {
+      "children": [
+        7
+      ],
+      "matrix": [
+        -0.096991352845687773,
+        -31.122652913015372,
+        -5.4739714087247142,
+        0,
+        6.7403961184542922,
+        5.3276457813104798,
+        -30.410138856067359,
+        0,
+        30.873144681983774,
+        -1.2609365276972826,
+        6.6221138403797761,
+        0,
+        123.23246002197266,
+        24.342514038085938,
+        -95.615219116210938,
+        1
+      ],
+      "name": "wMandable_low"
+    },
+    {
+      "mesh": 1,
+      "name": "wMandable_low_Mandable_0"
+    }
+  ],
+  "samplers": [
+    {
+      "magFilter": 9729,
+      "minFilter": 9987,
+      "wrapS": 10497,
+      "wrapT": 10497
+    }
+  ],
+  "scene": 0,
+  "scenes": [
+    {
+      "name": "OSG_Scene",
+      "nodes": [
+        0
+      ]
+    }
+  ],
+  "textures": [
+    {
+      "sampler": 0,
+      "source": 0
+    },
+    {
+      "sampler": 0,
+      "source": 1
+    },
+    {
+      "sampler": 0,
+      "source": 2
+    },
+    {
+      "sampler": 0,
+      "source": 3
+    },
+    {
+      "sampler": 0,
+      "source": 4
+    },
+    {
+      "sampler": 0,
+      "source": 5
+    }
+  ]
+}
+
