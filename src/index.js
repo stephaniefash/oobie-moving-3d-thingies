@@ -1,7 +1,7 @@
 import React from 'react';
 import ReactDOM from 'react-dom';
 import './index.css';
-import App from './ConvexGeometry';
+import App from './TrippyTripTrip';
 import * as serviceWorker from './serviceWorker';
 
 ReactDOM.render(
